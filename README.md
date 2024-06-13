@@ -1,1 +1,2 @@
-# Full-Stack-Todo-List
+# todolist
+A full MERN stack application
